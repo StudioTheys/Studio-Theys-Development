@@ -1,0 +1,17 @@
+notes:
+- if item has been bought remove from wishlist?
+- if customer creates account - scan cookies and add to wishlist
+- wishlist groups?
+
+- wishlist accessable from ccount?
+- wishlist saved to customer metafielts as a string
+- wishlist cookie and metafield
+
+{if - no customer account - go to list page - have a list page and also in account view}
+
+to do:
+- add heart icon to header
+- add heart icon to product.card, product.page
+- create wishlist page
+- add wishlist area in customer account
+

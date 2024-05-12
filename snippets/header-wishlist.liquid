@@ -1,1 +1,7 @@
-<span>3</span>
+{% assign wishlist_page_url = '/pages/wishlist' %}
+<a
+  href="{{ wishlist_page_url }}"
+  class="header__icon link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}"
+>
+  {% render 'icon-heart' %}
+</a>
